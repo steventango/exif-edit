@@ -3,7 +3,7 @@ Uses filename to edit EXIF data: date created and date modified.
 
 ## Usage
 ```bash
-python -m venv env
+python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
 mkdir images
